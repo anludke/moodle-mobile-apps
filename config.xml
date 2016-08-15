@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget id="com.moodle.moodlemobile" version="3.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="org.osbornetraining.vle.obs" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Osborne Training VTC</name>
   <description>Osborne Training Mobile OBS app</description>
-  <author href="https://www.osbornetraining.org/" email="mansur@osbornetraining.org">Mansur Shohag</author>
+  <author href="https://www.osbornetraining.org/" email="annel@osbornetraining.org">Annel Ketcha</author>
   <content src="index.html"/>
   <access origin="*"/>
 
